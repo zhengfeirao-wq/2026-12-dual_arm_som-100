@@ -1,0 +1,10 @@
+# Obsidian — 频繁变动的本地状态/缓存，不需要同步，避免 git 反复刷新卡顿
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/.trash/
+
+# 系统/编辑器杂项
+.DS_Store
+Thumbs.db
+.vscode/
