@@ -8,3 +8,6 @@
 .DS_Store
 Thumbs.db
 .vscode/
+
+# 下载的 LeRobot 源码框架（仅本地看代码，不纳入笔记仓库；它自带 .git）
+/（1）LeRobot下载/
